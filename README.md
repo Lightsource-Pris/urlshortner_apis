@@ -1,6 +1,6 @@
 ## About LILLINK Apis
 
-*Here is the codebase for the LILLINK Project (URL Shortener) built with Laravel 9.0
+*Here is the backend codebase for the LILLINK Project (URL Shortener) built with Laravel 9.0
 
 *LILLINK is a project developed to help individuals with long profile links, long sharing links and any other kind of links shorten and personalize their links.
 
