@@ -16,7 +16,7 @@ use App\Http\Controllers\ShortnerController;
 */
 
 Route::prefix('')->as('api.')->group(function () {
-    Route::post('/shorten', [ShortnerController::class, 'createEntry']);
+    Route::get('/shorten', [ShortnerController::class, 'createEntry']);
     Route::get('/redirect_url/{name}', [ShortnerController::class, 'createRedirection']);
 });
  
