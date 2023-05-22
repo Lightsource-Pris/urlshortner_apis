@@ -26,7 +26,7 @@
                     <span style="color:white;font-size:20px;margin-top:10px">GET REQUEST: https://lilapi.iaaws.com/shorten/?url=examplelongurl.com&unique_name=myurl</span>
                 </div>
                 <div class="flex flex-col justify-center">
-                    <span style="color:white;font-size:20px;margin-top:10px">Visit Site: <a style="color:blue" href="https://lilapi.iaaws.com">lillink</a></span>
+                    <span style="color:white;font-size:20px;margin-top:10px">Visit Site: <a style="color:blue" href="https://lil.iaaws.com">lillink</a></span>
                 </div>
             </div>
         </div>
